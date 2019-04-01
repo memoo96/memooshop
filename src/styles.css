@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body{
+    padding-top: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

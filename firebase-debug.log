@@ -1,0 +1,31 @@
+[debug] [2019-03-20T16:03:02.706Z] ----------------------------------------------------------------------
+[debug] [2019-03-20T16:03:02.709Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Memo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-03-20T16:03:02.709Z] CLI Version:   6.5.0
+[debug] [2019-03-20T16:03:02.709Z] Platform:      win32
+[debug] [2019-03-20T16:03:02.709Z] Node Version:  v8.9.3
+[debug] [2019-03-20T16:03:02.713Z] Time:          Wed Mar 20 2019 18:03:02 GMT+0200 (Egypt Standard Time)
+[debug] [2019-03-20T16:03:02.713Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-03-20T16:03:02.728Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-03-20T16:03:02.729Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\my projects\angular-projects\memoo-shop
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2019-03-20T16:03:15.398Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 
+[debug] [2019-03-20T16:03:16.478Z] <<< HTTP RESPONSE 200

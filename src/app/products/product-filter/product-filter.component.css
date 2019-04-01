@@ -1,0 +1,21 @@
+.sticky-top {
+    top: 70px;
+}
+
+.list-group-item {
+    border-radius: 0px;
+    border: 1px solid rgba(146, 146, 146, 0.125);
+}
+
+
+.list-group-item.active {
+    background-color: #009f00;
+    border-color: #009f00;
+}
+
+.list-group-item-action:focus {
+    z-index: 2;
+    color: #fff;
+    background-color: #009f00;
+    border-color: #009f00;
+}

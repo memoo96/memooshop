@@ -1,0 +1,23 @@
+.new_prod {
+    background-color: #009f00;
+	border-color: #009f00;
+	padding: 10px;
+	border-radius: 0.25rem;
+	transition: all 0.5s ease-in-out;
+}
+
+.new_prod:hover,.new_prod:focus {
+    background-color: #048604;
+    border-color: #048604;
+    outline: 0;
+}
+
+.table .thead-dark th {
+    color: #fff;
+    background-color: #009f00; 
+    border-color: #009f00;
+}
+
+.edit {
+    color: #009f00;
+}
